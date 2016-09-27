@@ -27,7 +27,7 @@ class CreateClientsTable extends Migration
     /**
      * Reverse the migrations.
      *
-     * @return void
+     * @return void 2
      */
     public function down()
     {
